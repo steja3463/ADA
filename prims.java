@@ -78,7 +78,7 @@ public class prims {
                 }
             }
         }
-
+        System.out.println("*******Prims Algorithm implemented*******");
         System.out.println("Minimum Cost of MST: " + minCost);
     }
 }
